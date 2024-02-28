@@ -54,3 +54,24 @@
 
 15. **Termos de Uso e Política de Privacidade:**
     - Disponibilizar informações claras sobre os termos de uso da plataforma e política de privacidade.
+16. **Download Offline:**
+    - Permitir que os usuários baixem filmes para assistir offline em seus dispositivos.
+    - Implementar restrições de acesso para garantir que os filmes baixados permaneçam protegidos contra pirataria.
+
+17. **Integração de Redes Sociais:**
+    - Possibilitar que os usuários compartilhem suas atividades e recomendações de filmes em redes sociais.
+    - Integrar recursos de login social para facilitar o acesso à plataforma.
+
+18. **Legendas e Dublagem:**
+    - Oferecer opções de legendas e dublagem em diferentes idiomas para tornar o conteúdo acessível a uma audiência global.
+    - Permitir que os usuários escolham suas preferências de áudio e legendas durante a reprodução do filme.
+
+19. **Sistema de Pontuação ou Recompensas:**
+    - Implementar um sistema de pontuação ou recompensas para incentivar a participação e fidelidade dos usuários.
+    - Oferecer benefícios como descontos em compras futuras ou acesso antecipado a lançamentos exclusivos.
+
+20. **Conteúdo Exclusivo e Parcerias:**
+    - Firmar parcerias com estúdios de cinema e distribuidoras para oferecer conteúdo exclusivo na plataforma.
+    - Promover eventos especiais, como pré-estreias de filmes, para atrair e engajar os usuários.
+   
+    - 
